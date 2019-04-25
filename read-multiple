@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # read-multiple : read multiple values from keyboard
-
+# THis is for ch 28
 echo -n "Enter one or more values > "
 read var1 var2 var3 var4 var5
 

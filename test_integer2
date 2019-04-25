@@ -1,6 +1,7 @@
 #!/bin/bash
 
 #test_integer2 : evaluate the value of an integer
+#This one is for ch 27
 
 INT=-5
 

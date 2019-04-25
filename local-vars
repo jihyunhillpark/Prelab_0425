@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #local-vars : scripts to demonstrate local variables
-
+#this one is for ch 25
 foo=0 # global variable foo
 
 funct_1 () {
